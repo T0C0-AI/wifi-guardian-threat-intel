@@ -1,6 +1,6 @@
 {
   "version": "2026.08.21",
-  "generatedAt": "2026-08-22T18:10:31Z",
+  "generatedAt": "2026-08-23T18:10:26Z",
   "sourceCount": 1674,
   "matchedCount": 41,
   "items": [
@@ -18,7 +18,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2026-34910",
       "firstSeenAt": 1782172800000,
-      "updatedAt": 1787422231739,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "userFriendlyMessage": "Ubiquiti의 UniFi OS에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -36,7 +36,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2026-34909",
       "firstSeenAt": 1782172800000,
-      "updatedAt": 1787422231739,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "userFriendlyMessage": "Ubiquiti의 UniFi OS에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -54,7 +54,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2026-34908",
       "firstSeenAt": 1782172800000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "userFriendlyMessage": "Ubiquiti의 UniFi OS에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -72,7 +72,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2022-37055",
       "firstSeenAt": 1765152000000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "D-Link의 Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -90,7 +90,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2025-9377",
       "firstSeenAt": 1756857600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "TP-Link의 Multiple Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -108,7 +108,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-0769",
       "firstSeenAt": 1750809600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "D-Link의 DIR-859 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -126,7 +126,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2023-33538",
       "firstSeenAt": 1750032000000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "TP-Link의 Multiple Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -144,7 +144,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2021-32030",
       "firstSeenAt": 1748822400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "ASUS의 Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -162,7 +162,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2023-39780",
       "firstSeenAt": 1748822400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "ASUS의 RT-AX55 Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -180,7 +180,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-12987",
       "firstSeenAt": 1747267200000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "DrayTek의 Vigor Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -198,7 +198,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-40891",
       "firstSeenAt": 1739232000000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization if a current mitigation is unavailable.",
       "userFriendlyMessage": "Zyxel의 DSL CPE Devices에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -216,7 +216,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2024-40890",
       "firstSeenAt": 1739232000000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization if a current mitigation is unavailable.",
       "userFriendlyMessage": "Zyxel의 DSL CPE Devices에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -234,7 +234,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2020-15415",
       "firstSeenAt": 1727654400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "DrayTek의 Multiple Vigor Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -252,7 +252,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2023-25280",
       "firstSeenAt": 1727654400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "The impacted product is end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue utilization of the product.",
       "userFriendlyMessage": "D-Link의 DIR-820 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -270,7 +270,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2021-20124",
       "firstSeenAt": 1725321600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "DrayTek의 VigorConnect에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -288,7 +288,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2021-20123",
       "firstSeenAt": 1725321600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "DrayTek의 VigorConnect에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -306,7 +306,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2021-40655",
       "firstSeenAt": 1715817600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "This vulnerability affects legacy D-Link products. All associated hardware revisions have reached their end-of-life (EOL) or end-of-service (EOS) life cycle and should be retired and replaced per vendor instructions.",
       "userFriendlyMessage": "D-Link의 DIR-605 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -324,7 +324,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2014-100005",
       "firstSeenAt": 1715817600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "This vulnerability affects legacy D-Link products. All associated hardware revisions have reached their end-of-life (EOL) or end-of-service (EOS) life cycle and should be retired and replaced per vendor instructions.",
       "userFriendlyMessage": "D-Link의 DIR-600 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -342,7 +342,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2016-20017",
       "firstSeenAt": 1704672000000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "D-Link의 DSL-2750B Devices에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -360,7 +360,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2017-6884",
       "firstSeenAt": 1694995200000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "Zyxel의 EMG2926 Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -378,7 +378,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2017-18368",
       "firstSeenAt": 1691366400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
       "userFriendlyMessage": "Zyxel의 P660HN-T1A Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -396,7 +396,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2019-17621",
       "firstSeenAt": 1687996800000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
       "userFriendlyMessage": "D-Link의 DIR-859 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -414,7 +414,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2019-20500",
       "firstSeenAt": 1687996800000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
       "userFriendlyMessage": "D-Link의 DWL-2600AP Access Point에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -432,7 +432,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2018-7445",
       "firstSeenAt": 1662595200000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "MikroTik의 RouterOS에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -450,7 +450,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2018-6530",
       "firstSeenAt": 1662595200000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "The vendor D-Link published an advisory stating the fix under CVE-2018-20114 properly patches KEV entry CVE-2018-6530. If the device is still supported, apply updates per vendor instructions. If the affected device has since entered its end-of-life, it should be disconnected if still in use.",
       "userFriendlyMessage": "D-Link의 Multiple Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -468,7 +468,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2011-4723",
       "firstSeenAt": 1662595200000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "The impacted product is end-of-life and should be disconnected if still in use.",
       "userFriendlyMessage": "D-Link의 DIR-300 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -486,7 +486,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2010-5330",
       "firstSeenAt": 1649980800000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "Ubiquiti의 AirOS에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -504,7 +504,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2021-45382",
       "firstSeenAt": 1649030400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "The impacted product is end-of-life and should be disconnected if still in use.",
       "userFriendlyMessage": "D-Link의 Multiple Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -522,7 +522,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2019-16920",
       "firstSeenAt": 1648166400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "The impacted product is end-of-life and should be disconnected if still in use.",
       "userFriendlyMessage": "D-Link의 Multiple Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -540,7 +540,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2016-1555",
       "firstSeenAt": 1648166400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "NETGEAR의 Wireless Access Point (WAP) Devices에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -558,7 +558,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2016-10174",
       "firstSeenAt": 1648166400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "NETGEAR의 WNR2000v5 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -576,7 +576,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2013-5223",
       "firstSeenAt": 1648166400000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "D-Link의 DSL-2760U에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -594,7 +594,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2017-6077",
       "firstSeenAt": 1646611200000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "NETGEAR의 Wireless Router DGN2200에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -612,7 +612,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2016-6277",
       "firstSeenAt": 1646611200000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "NETGEAR의 Multiple Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -630,7 +630,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2015-2051",
       "firstSeenAt": 1644451200000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "The impacted product is end-of-life and should be disconnected if still in use.",
       "userFriendlyMessage": "D-Link의 DIR-645 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -648,7 +648,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2018-14847",
       "firstSeenAt": 1638316800000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "MikroTik의 RouterOS에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -666,7 +666,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2020-8515",
       "firstSeenAt": 1635897600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "DrayTek의 Multiple Vigor Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -684,7 +684,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2021-35395",
       "firstSeenAt": 1635897600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "Realtek의 AP-Router SDK에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -702,7 +702,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2021-31755",
       "firstSeenAt": 1635897600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "Tenda의 AC11 Router에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -720,7 +720,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2020-10987",
       "firstSeenAt": 1635897600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "Tenda의 AC1900 Router AC15 Model에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     },
@@ -738,7 +738,7 @@
       "sourceName": "CISA KEV",
       "sourceUrl": "https://nvd.nist.gov/vuln/detail/CVE-2018-14558",
       "firstSeenAt": 1635897600000,
-      "updatedAt": 1787422231740,
+      "updatedAt": 1787508626421,
       "recommendedAction": "Apply updates per vendor instructions.",
       "userFriendlyMessage": "Tenda의 AC7, AC9, and AC10 Routers에서 실제로 공격에 쓰인 보안 구멍이 확인됐어요."
     }
